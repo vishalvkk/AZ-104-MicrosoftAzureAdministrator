@@ -24,7 +24,7 @@
             "value": "2019-Datacenter"
         },
         "vmSize": {
-            "value": "Standard_D2s_v3"
+            "value": "Standard_B1s"
         },
         "virtualNetworkName": {
             "value": "az104-11-vnet"
